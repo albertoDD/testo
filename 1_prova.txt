@@ -16,4 +16,9 @@ git push origin master
 
 
 
-adesso modifico il file su remoto e provo ad aggiornare il file locale
+adesso modifico il file su remoto e provo ad aggiornare il file locale 
+
+-------aggiornare file da remoto verso locale-----
+
+git push origin master      
+
