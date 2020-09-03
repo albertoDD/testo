@@ -1,1 +1,10 @@
 Primo file di testo 
+
+adesso scrivo qualcosa e vediamo se si aggiorna il file di testo su github.
+
+
+Comandi utili: 
+- add-commit-push per aggiungere il lavoro fatto dall'area locale su quello remoto
+- se si fanno cambiamenti in quello remoto e si "committano" e "pushano", bisogna scaricarli in quello locale, fare quindi pull e merge
+
+
