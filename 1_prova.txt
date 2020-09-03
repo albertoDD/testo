@@ -15,3 +15,5 @@ git commit -m "nome del commit"
 git push origin master
 
 
+
+adesso modifico il file su remoto e provo ad aggiornare il file locale
