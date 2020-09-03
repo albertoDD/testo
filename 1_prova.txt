@@ -8,3 +8,10 @@ Comandi utili:
 - se si fanno cambiamenti in quello remoto e si "committano" e "pushano", bisogna scaricarli in quello locale, fare quindi pull e merge
 
 
+------aggiornare da LOCALE-->REMOTO
+
+git add .
+git commit -m "nome del commit"
+git push origin master
+
+
